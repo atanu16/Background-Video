@@ -1,9 +1,11 @@
 # Background-Video
+<br>
+Used Items: <br>
+1.HTML <br>
+2.CSS <br>
+3.Bootstrap Icons <br>
+4.Favcon <br>
+5."<Video>" - Video Tag <br>
 
-Used Items:
-1.HTML 
-2.CSS
-3.Bootstrap Icons
-4.Favcon
-5."<Video>" - Video Tag
+[Demo](https://atanu16.github.io/Background-Video/)
 
