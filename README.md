@@ -1,6 +1,6 @@
 # Background-Video
 <br>
-<h3> Demo </h3>
+<h3>Website Demo </h3>
 
 [Demo](https://atanu16.github.io/Background-Video/)
 <br>
