@@ -6,7 +6,7 @@ Used Items: <br>
 3.Bootstrap Icons <br>
 4.Favcon <br>
 5.Video Tag <br>
-6.(autoplay loop muted plays-inline)
+6.Video-(autoplay loop muted plays-inline)
 <br>
 <br>
 <h3> Demo </h3>
