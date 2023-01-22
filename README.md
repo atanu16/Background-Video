@@ -5,7 +5,7 @@
 [Demo](https://atanu16.github.io/Background-Video/)
 <br>
 <br>
-<h3>Used Items: </h3><br>
+<h3>Used Items: </h3>
 1.HTML <br>
 2.CSS <br>
 3.Bootstrap Icons <br>
