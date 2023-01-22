@@ -2,7 +2,7 @@
 <br>
 <h3>Website Demo </h3>
 
-[Demo](https://atanu16.github.io/Background-Video/)
+[Demo](https://atanu16.github.io/Background-Video-HTML-CSS/)
 <br>
 <br>
 <h3>Used Items: </h3>
