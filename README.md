@@ -1,6 +1,11 @@
 # Background-Video
 <br>
-Used Items: <br>
+<h3> Demo </h3>
+
+[Demo](https://atanu16.github.io/Background-Video/)
+<br>
+<br>
+<h3>Used Items: </h3><br>
 1.HTML <br>
 2.CSS <br>
 3.Bootstrap Icons <br>
@@ -9,7 +14,5 @@ Used Items: <br>
 6.Video-(autoplay loop muted plays-inline)
 <br>
 <br>
-<h3> Demo </h3>
 
-[Demo](https://atanu16.github.io/Background-Video/)
 
